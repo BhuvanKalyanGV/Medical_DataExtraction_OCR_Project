@@ -1,2 +1,9 @@
 # Medical_DataExtraction_OCR_Project
 This project focuses on efficient medical data extraction by converting patient details or prescriptions from PDFs into structured digital data. The process starts with converting the PDF to an image using `pdf2image`, followed by image enhancement through thresholding with OpenCV to improve text clarity. The refined image is then processed with `pytesseract` for accurate text extraction. Using `regex`, the extracted data is categorized and assigned to specific variables. Finally, the structured data is served via a `FastAPI` server, enabling seamless and efficient retrieval for medical applications.
+
+## Author
+Bhuvan Kalyan G V
+[LinkedIn: in/bhuvan-kalyan-g-v](https://www.linkedin.com/in/bhuvan-kalyan-g-v/)
+
+## Version History
+ 0.1: Initial Release
