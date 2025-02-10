@@ -5,8 +5,8 @@ This project focuses on efficient medical data extraction by converting patient 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
-   cd expense-management-system
+   git clone https://github.com/BhuvanKalyanGV/Medical_DataExtraction_OCR_Project.git
+   cd Medical_DataExtraction_OCR_Project
    ```
 1. **Install dependencies:**:   
    ```commandline
